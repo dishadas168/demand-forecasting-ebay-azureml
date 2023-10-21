@@ -1,0 +1,7 @@
+https://learn.microsoft.com/en-us/azure/machine-learning/concept-train-model-git-integration?view=azureml-api-2&tabs=cli
+
+(Linking github with Azure ML Workspace)
+
+ssh-keygen -t rsa -b 4096 -C "dishadas168@gmail.com"
+
+cat ~/.ssh/id_rsa.pub
